@@ -1,0 +1,11 @@
+.nav {
+  float: right;
+  display: inline-block;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  justify-content: space-between;
+}
+
+.menu_container {
+}

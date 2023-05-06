@@ -9,9 +9,12 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
 }
 
 .container {
-  color: #db1313;
-  background-color: #4d28d4;
+  color: white;
+  font-family: "Roboto", sans-serif;
 }
